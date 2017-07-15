@@ -1,1 +1,6 @@
-
+# Entry #1 - Headings in Markdown
+## Tried typing #H1 and then my heading, nothing happended
+## Tried adding another space, nothing changed and the heading still did not work
+## Then consulted Sarah Simpkin's getting started with Markdown & noticed that I did not need to write *H1*
+## Instead that is where I wrote the heading
+## Tried that & it worked
